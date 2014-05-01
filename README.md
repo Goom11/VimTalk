@@ -7,3 +7,11 @@
 2. Have Vim installed
 3. Have Git installed
 
+## Optional
+
++ Have GVim/MacVim installed
+
+## Instructions
+
+1. Clone this repo
+2. Run the install script
