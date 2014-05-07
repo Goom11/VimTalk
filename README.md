@@ -14,4 +14,4 @@
 ## Instructions
 
 1. Clone this repo
-2. Run the install script
+2. Use this .vimrc for your own
