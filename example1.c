@@ -1,18 +1,17 @@
-# Repeat Command
-
 bool firstFunction(int arg1, int arg2);
 bool secondFunction(int arg1, int arg2);
 bool thirdFunction(int arg1, int arg2);
 
-# Text Objects
 
 if (a && firstFunction(i, j) && b) {
 }
 
 
+
 [a, b, c, d, e]
 (a, b, c, d, e)
 {a, b, c, d, e}
+
 
 
 int safe_errno(int err)
@@ -34,11 +33,22 @@ int safe_errno(int err)
 }
 
 
-<?xml version="1.0" encoding="ISO-8859-1" ?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
-</xs:schema>
 
-# Macros
+<?XML VERSION="1.0" ENCODING="ISO-8859-1" ?>
+<XS:SCHEMA XMLNS:XS="HTTP://WWW.W3.ORG/2001/XMLSCHEMA">
+</XS:SCHEMA>
+
+
+
+This is a paragraph.
+
+This is another paragraph.
+
+What you want another paragraph? How many paragraphs do you need?
+Here's another.
+And Another!
+
+
 
 Abbreviate to shorten, abridge
 
