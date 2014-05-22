@@ -2,5 +2,8 @@ set nocompatible
 
 filetype plugin indent on
  
-set background=dark
-colorscheme solarized
+syntax on
+
+set number
+
+"set mouse=a
